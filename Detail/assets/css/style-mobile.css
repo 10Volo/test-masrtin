@@ -1,0 +1,25 @@
+@media (max-width: 414px) {
+	main section#mu-about .mu-about-area {
+		padding: 50px 0; }
+	main section#mu-speakers .mu-speakers-area {
+		padding: 50px 0; }
+	main section#mu-faq .mu-faq-area {
+		padding: 50px 0; }
+	main section#mu-faq .mu-faq-area .mu-title-area h2.mu-title br {
+		display: none; }
+	main section#mu-faq .mu-faq-area .mu-title-area p {
+		text-align: justify; }
+	main section#mu-faq .mu-faq-area .mu-title-area p br {
+		display: none; }
+	main section#mu-sponsors .mu-sponsors-area {
+		padding: 10% 5%; }
+	main section#mu-contact .mu-contact-area {
+		padding: 50px 0; }
+	footer#mu-footer .mu-footer-area {
+		padding: 0 0 30px 0; }
+	footer#mu-footer br {
+		display: none; } }
+
+@media (max-width: 414px) {
+	section#mu-faq .mu-faq-area .mu-faq-content .panel-group .panel-heading .panel-title a {
+		font-size: 12px; } }
