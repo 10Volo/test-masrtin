@@ -1,3 +1,8 @@
+main section#mu-video {
+	background-size: 20%;
+}
+
+
 @media (max-width: 414px) {
 	main section#mu-about .mu-about-area {
 		padding: 50px 0; }
