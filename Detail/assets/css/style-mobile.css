@@ -1,6 +1,33 @@
+@media (max-width: 1024px) {
+	main section#mu-video:before {
+		content: '';
+		position: fixed;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		z-index: -1;
+	}
+}
+
 @media (max-width: 414px) {
 	main section#mu-about .mu-about-area {
 		padding: 50px 0; }
+
+
+
+	/*main section#mu-video:before {*/
+		/*content: '';*/
+		/*position: fixed;*/
+		/*left: 0;*/
+		/*right: 0;*/
+		/*top: 0;*/
+		/*bottom: 0;*/
+		/*z-index: -1;*/
+	/*}*/
+
+
+
 	main section#mu-speakers .mu-speakers-area {
 		padding: 50px 0; }
 	main section#mu-faq .mu-faq-area {
